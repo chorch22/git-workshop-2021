@@ -1,4 +1,7 @@
 Hello this is Jasmine for the Git Workshop!
 Hi!
-
 new branch text
+
+changing something! :) 
+
+This is my new change
